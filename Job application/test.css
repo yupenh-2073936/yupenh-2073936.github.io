@@ -1,0 +1,29 @@
+h2{
+    color:goldenrod;
+    font-size: xx-large;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body{
+    background-color:rgb(26, 152, 194);
+}
+label{
+    color:maroon;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+fieldset{
+    background-color: aqua;
+}
+legend{
+    background-color: bisque;
+}
+textarea{
+    background-color: bisque;
+}
+input{
+    background-color: bisque;
+}
